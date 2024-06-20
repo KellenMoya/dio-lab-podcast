@@ -23,3 +23,8 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - 🤖 1. Use os prompts de roteiro no `chagpt`
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `midjourney`
+
+## 📚 Prompts Utilizados
+
+- [Prompt nome](prompt/gpt-nome.md)
+- [Prompt roteiro](prompt/gpt-roteiro.md)
